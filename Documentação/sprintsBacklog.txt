@@ -1,0 +1,60 @@
+-------- Sprint 0 - 31/03 - Domingo -------- 
+
+- Configurar o ambiente de desenvolvimento Django
+    - instalar todas as dependencias necessárias
+    - criar templetes básicos
+    - deploy da aplicação (heroku)
+
+-------- Sprint 1 - 31/03 - Domingo -------- 
+
+- Cadastrar e exibir os produtos (Django Admin)
+    - criar uma app catalog
+    - custumizar o Admin
+    - listar produtos de uma categoria
+    - exibir o produto
+    - Testar
+    - Deploy
+
+-------- Sprint 2 - 01/04 - Segunda-Feira -------- 
+
+- Implementar Class-based views e Django forms (opcional)
+    - Form de contato
+    - enviar e-mail
+    - Deploy
+
+-------- Sprint 3 - 01/04 - Segunda-Feira -------- 
+
+- Criar aplicação dos usuários
+    - App Accounts
+    - criar o a tela do usuários
+    - Implementar modificação de dados pelo usuário
+    - Testar
+    - Deploy
+
+-------- Sprint 4 - 02/04 - Terça-Feira -------- 
+
+- Aplicação de carrinho de compras
+    - App checkout e modelagem do carrinho
+    - Operações básicas do carrinho
+    - Testar o carrinho
+    - Deploy
+
+-------- Sprint 5 - 02/04 - Terça-Feira -------- 
+
+- Aplicação de pedidos
+    - modelagem do pedidido
+    - checkout
+    - Testar
+    - Deploy
+
+-------- Sprint 6 - 02/04 - Quarta-Feira -------- 
+
+- Finalizar a compras
+    - detalhamento do pedidos
+    - pagamento
+    - Deploy
+
+-------- Sprint 7 - 02/04 - Quarta-Feira -------- 
+
+- Ajustes finais
+    - ...

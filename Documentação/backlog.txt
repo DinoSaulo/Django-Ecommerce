@@ -1,0 +1,37 @@
+- Configurar o ambiente de desenvolvimento Django
+    - instalar todas as dependencias necessárias
+    - criar templetes básicos
+    - deploy da aplicação (heroku)
+- Cadastrar e exibir os produtos (Django Admin)
+    - criar uma app catalog
+    - custumizar o Admin
+    - listar produtos de uma categoria
+    - exibir o produto
+    - Testar
+    - Deploy
+- Implementar Class-based views e Django forms (opcional)
+    - Form de contato
+    - enviar e-mail
+    - Deploy
+- Criar aplicação dos usuários
+    - App Accounts
+    - criar o a tela do usuários
+    - Implementar modificação de dados pelo usuário
+    - Testar
+    - Deploy
+- Aplicação de carrinho de compras
+    - App checkout e modelagem do carrinho
+    - Operações básicas do carrinho
+    - Testar o carrinho
+    - Deploy
+- Aplicação de pedidos
+    - modelagem do pedidido
+    - checkout
+    - Testar
+    - Deploy
+- Finalizar a compras
+    - detalhamento do pedidos
+    - pagamento
+    - Deploy
+- Ajustes finais
+    - ...
