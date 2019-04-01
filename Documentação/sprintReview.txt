@@ -1,6 +1,11 @@
 -------- Sprint 0 - 31/03 - Domingo -------- 
 
-- 
+- Devido a complicações com o computador, passei o domingo todo sem trabalhar nas sprints, e só consegui fazer as mesmas na segunda-feira
+- Configurei todo o ambiente para desenvolvimento
+- Criei a base para o projeto
+- Implementei a base do front-end com um templete do Bootstrap
+- Realizei alguns testes unitários
+- Tive dificuldades com o deploy no heroku, e também para desenvolver mais rapidamente por conta do atraso decidi não utilizar deploy contino
 
 -------- Sprint 1 - 31/03 - Domingo -------- 
 
