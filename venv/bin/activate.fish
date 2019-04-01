@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/saulo/Documentos/djangoecommerce-aula007/venv"
+set -gx VIRTUAL_ENV "/home/saulo/Documentos/git/Django-Ecommerce/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

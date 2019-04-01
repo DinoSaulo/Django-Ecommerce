@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/saulo/Documentos/djangoecommerce-aula007/venv"
+VIRTUAL_ENV="/home/saulo/Documentos/git/Django-Ecommerce/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
