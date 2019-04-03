@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    'widget_tweaks',
     'core',
     'catalog',
 ]
@@ -136,6 +137,7 @@ ALLOWED_HOSTS = ['*']
 
 STATIC_ROOT = os.path.join(PROJECT_ROOT, 'staticfiles')
 
+# Importando as configurações
 try:
     from .local_settings import *
 except ImportError:
@@ -144,3 +146,9 @@ except ImportError:
 # Configure Django App for Heroku.
 import django_heroku
 django_heroku.settings(locals())
+
+# E-mail
+EMAIL_HOST = ''
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
+DEFAULT_FROM_EMAIL = 'admin@djangoecommerce.com'
