@@ -9,7 +9,9 @@
 
 -------- Sprint 1 - 31/03 - Domingo -------- 
 
-- 
+- Comecei esta sprint ainda na segunda-feira, entretanto, pela tarde o projeto começou a apresentar conflito de versões do Django, era para ele estar funcionando com o django 2.2, entretanto, por algum motivo ele sempre executava com o django 1.1, consegui resolver o bug somente na terça-feira
+- Todas as modificações definidas foram implementadas
+- Não realizei os testes definidos, devido a deadline que já está próxima, caso sobre algum tempo após a conclusão irei realizar os mesmos.
 
 -------- Sprint 2 - 01/04 - Segunda-Feira -------- 
 
