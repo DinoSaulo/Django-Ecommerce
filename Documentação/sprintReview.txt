@@ -15,7 +15,11 @@
 
 -------- Sprint 2 - 01/04 - Segunda-Feira -------- 
 
-- 
+- toda a sprint foi realizada com sucesso
+- entretanto a parte de contato através do e-mail ainda necessita de algumas modificações para que possa ser enviado um e-mail para o terminal ou via smtp, como esta parte defini como opcional, deixei a funcionalidade em aberto
+- as class base views foram implementadas, agora cada categoria e o catálogo exibirão somente 3 produtos por vez
+- Não realizei os testes definidos, devido a deadline que já está próxima, caso sobre algum tempo após a conclusão irei realizar os mesmos.
+- Sei que acumular testes não é bom, mas felizmente está rodando tudo (rs)
 
 -------- Sprint 3 - 01/04 - Segunda-Feira -------- 
 
