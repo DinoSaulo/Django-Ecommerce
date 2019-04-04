@@ -29,6 +29,7 @@ urlpatterns = [
     url(r'^entrar/$', login, {'template_name': 'login.html'}, name='login'),
     url(r'^sair/$', logout, {'next_page': 'index'}, name='logout'),
     path('conta/', include('accounts.urls', namespace='accounts')),
+    path('compras/', include('checkout.urls', namespace='checkout')),
     #url(r'^registro/$', views.register, name='register'),
     #url(r'^produtos/', include(('catalog.urls', 'catalog') namespace='catalog')),
     url(r'^admin/', admin.site.urls),
