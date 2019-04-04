@@ -12,7 +12,7 @@ Quaisquer dúvidas, pode entrar em contato por email.
 OBS: Caso não consiga finalizar o projeto todo, nos envie tudo o que conseguir fazer. Ok?
 ```
 
-[Projeto - FULL STACK](Requisitos - Projeto - FULL STACK.pdf)
+[Projeto - FULL STACK](/Documentação/Requisitos-Projeto-FULLSTACK.pdf)
 
 ### Documentação do desenvolvimento do aplicativo
 
