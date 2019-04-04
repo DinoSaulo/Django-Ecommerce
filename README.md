@@ -33,6 +33,19 @@ OBS: Caso não consiga finalizar o projeto todo, nos envie tudo o que conseguir 
 
 ![Tela_Carrinho](https://i.imgur.com/6DJ2c4e.png)
 
+### Como executar localmente
+
+Execute os seguintes comandos no terminal do Widows
+```
+python -m venv myvenv
+
+myvenv\Scripts\activate
+
+pip install -r requirements.txt
+
+python manage.py runserver
+
+```
 ### Aplicação
 
 [E-commerce no Heroku](https://djanguecommerce.herokuapp.com/)
