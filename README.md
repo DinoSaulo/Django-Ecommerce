@@ -6,13 +6,13 @@ Projeto de um e-commerce desenvolvido com Django para o processo seletivo do AIB
 * A segunda etapa da seleção trata-se de um mini-projeto que deverá ser entregue até às 23:55h da quarta-feira (03/04/19). O objetivo deste projeto é nos permitir conhecer melhor sobre suas habilidades na resolução de problemas.
 * As especificações do projeto seguem anexo.
 
-[Projeto - FULL STACK](Requisitos - Projeto - FULL STACK.pdf)
-
 Você deve enviar os entregáveis do projeto respondendo à este email.  
 Quaisquer dúvidas, pode entrar em contato por email.
 
 OBS: Caso não consiga finalizar o projeto todo, nos envie tudo o que conseguir fazer. Ok?
 ```
+
+[Projeto - FULL STACK](Requisitos - Projeto - FULL STACK.pdf)
 
 ### Documentação do desenvolvimento do aplicativo
 
