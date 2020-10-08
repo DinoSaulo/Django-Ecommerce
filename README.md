@@ -1,5 +1,5 @@
 # Django-Ecommerce
-Projeto de um e-commerce desenvolvido com Django para o processo seletivo do AIBox Lab
+Projeto de um e-commerce desenvolvido com Django para o processo seletivo do AIBox Lab.
 
 ### Objetivo do projeto - Péricles Miranda <periclesmiranda@gmail.com>
 ```
